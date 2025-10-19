@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Django stuff
+staticfiles/
+media/
+*.pot
+*.pyc
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env
+
+# Compiled files
+*.mo
+
+# Pip
+pip-log.txt
+
+# JetBrains IDEs
+.idea/
+
+# Coverage and testing
+htmlcov/
+.tox/
+.coverage
+.cache
+
+# Migrations (optional — only ignore if they’re auto-generated and not part of your submission)
+# */migrations/
